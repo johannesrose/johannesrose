@@ -15,3 +15,4 @@ Herzlich willkommen auf meinem GitHub-Profil! In den kommenden Wochen und Monate
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <br />
 
+### 🖥️ Projekte
