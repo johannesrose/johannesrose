@@ -16,5 +16,4 @@ Herzlich willkommen auf meinem GitHub-Profil! In den kommenden Wochen und Monate
 <br />
 
 ### 🖥️ Projekte
-<img src="https://github.com/johannesrose/johannesrose/blob/main/Cloud-Resume-Challenge.png" height="300" width="300"  >
 
