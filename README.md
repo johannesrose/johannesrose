@@ -17,6 +17,7 @@ Herzlich willkommen auf meinem GitHub-Profil! In den kommenden Wochen und Monate
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <br />
+
 ### 🖥️ Projekte
 
 <a href="https://github.com/johannesrose/aws-cloud-resume-challenge" rel="some text"><img src="https://github.com/johannesrose/johannesrose/blob/main/Cloud-Resume-Challenge.png" alt="" width="250" height="250" /></a>
