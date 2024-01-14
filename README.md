@@ -1,9 +1,9 @@
-# Hi, mein Name ist Johannes 👋
-**`Auf den Weg zum DevOps/Cloud Engineer`**</br>
+# Hi, my name is Johannes 👋
+**`Junior DevOps Engineer`**</br>
 
-Herzlich willkommen auf meinem GitHub-Profil! In den kommenden Wochen und Monaten werde ich hier viele spannende Projekte vorstellen, die ich im Rahmen meiner Weiterbildung zum DevOps Engineer umgesetzt habe. Als begeisterter Entwickler und Technologie-Enthusiast ist es meine Leidenschaft, innovative Lösungen zu entwickeln und zu implementieren, um komplexe Herausforderungen zu meistern. Ob du dich für die Automatisierung von Prozessen, die Optimierung von Infrastrukturen oder die Integration neuer Technologien interessierst - hier findest du sicherlich etwas, das dein Interesse weckt. Ich freue mich darauf, meine Arbeit mit der Community zu teilen und von anderen Entwicklern zu lernen. Lasst uns gemeinsam die Zukunft der Technologie gestalten!
+As a dedicated DevOps Engineer, I strive for continuous improvement and efficiency in the realm of software development and operations. Here, I share my experiences, learning journey, and projects, aiming to create an open and collaborative platform for knowledge exchange. Let's grow together and explore the world of DevOps excellence!
 
-### 🧰 Programmiersprachen & Tools
+### 🧰 Programming languages ​​& tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -18,7 +18,7 @@ Herzlich willkommen auf meinem GitHub-Profil! In den kommenden Wochen und Monate
 
 <br />
 
-### 🖥️ Projekte
+### 🖥️ Projects
 
 <a href="https://github.com/johannesrose/aws-cloud-resume-challenge" rel="some text"><img src="https://github.com/johannesrose/johannesrose/blob/main/Cloud-Resume-Challenge.png" alt="" width="250" height="250" /></a>
 
